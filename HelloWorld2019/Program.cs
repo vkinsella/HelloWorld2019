@@ -11,6 +11,7 @@ namespace HelloWorld2019
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("wednesday");
         }
     }
 }
